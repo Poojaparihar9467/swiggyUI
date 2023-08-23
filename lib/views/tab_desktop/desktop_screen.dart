@@ -5,6 +5,7 @@ import 'home_view.dart';
 import 'menu_view.dart';
 
 class DesktopScreen extends StatelessWidget {
+
   const DesktopScreen({Key? key}) : super(key: key);
 
   @override

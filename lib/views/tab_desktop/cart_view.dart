@@ -6,6 +6,7 @@ import '../../utils/ui_helper.dart';
 
 
 class CartView extends StatelessWidget {
+
   const CartView({Key? key, this.isTab = false}) : super(key: key);
 
   final bool isTab;

@@ -6,6 +6,7 @@ import '../../utils/ui_helper.dart';
 
 
 class MenuView extends StatelessWidget {
+
   const MenuView({Key? key, this.expandFlex = 2, this.isTab = false})
       : super(key: key);
 
